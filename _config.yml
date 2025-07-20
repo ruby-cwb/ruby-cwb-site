@@ -35,6 +35,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+google_analytics: G-PHMZVNVZG3
+
 lang: pt-BR
 header_logo_url: assets/images/logo-ruby-cwb-icon.png
 web_logo_url: assets/images/logo-ruby-cwb-icon.png
