@@ -4,10 +4,11 @@
 
 layout: home
 ---
+# Comunidade Ruby em Curitiba
 
 Bem-vindo ao grupo Ruby CWB! Esta é uma comunidade para desenvolvedores Ruby da região de Curitiba (CWB)
 
-# Como participar do grupo Ruby CWB
+## Como participar do grupo Ruby CWB
 
 Para saber dos encontros presenciais acompanhe nossa página no [Meetup].
 Para conversarmos [Grupo do Telegram].
