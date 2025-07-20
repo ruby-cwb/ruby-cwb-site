@@ -25,13 +25,19 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rubycwb.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  ruby-cwb
+github_username: ruby-cwb
+meetup_profile: ruby-cwb
+youtube_channel: rubycwb
+telegram_channel: rubycwb
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
+lang: pt-BR
+header_logo_url: assets/images/logo-ruby-cwb-icon.png
+web_logo_url: assets/images/logo-ruby-cwb-icon.png
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
