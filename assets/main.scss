@@ -1,0 +1,47 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.site-header {
+    border-top: 5px solid #b80000;
+    border-bottom: 1px solid $grey-color-light;
+    min-height: $spacing-unit * 1.865;
+
+    // Positioning context for the mobile navigation icon
+    position: relative;
+}
+
+.site-title {
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 54px;
+    letter-spacing: -0.7px;
+    margin-bottom: 0;
+    float: left;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.grid li {
+    list-style-type: none;
+    margin: 0px auto;
+    padding: 10px;
+    justify-self: center;
+    align-self: center;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: auto;
+}
+
+@media only screen and (max-width: 600px) {
+    .grid {
+        grid-template-columns: 200px 200px;
+        margin: 0;
+    }
+}
