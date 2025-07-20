@@ -1,0 +1,22 @@
+---
+- id: 1
+  name: Pipefy
+  url: http://www.pipefy.com
+  logo:
+    url: "/sponsors/pipefy-logo.png"
+  meetings:
+    - id: 2
+- id: 2
+  name: Abler
+  url: https://abler.com.br/
+  logo:
+    url: "/sponsors/abler-logo.png"
+  meetings:
+    - id: 1
+- id: 3
+  name: Akurey
+  url: https://www.akurey.com/
+  logo:
+    url: "/sponsors/akurey-logo.png"
+  meetings:
+    - id: 1
